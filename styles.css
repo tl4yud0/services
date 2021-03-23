@@ -68,7 +68,7 @@ img{
     min-width: 380px;
     height: 25rem;
     text-align: center;
-    background-image: url("epicerie-en-ligne/services-en-ligne/QC/Services-Ecom-Header-D.jpg");
+    background-image: url("services-en-ligne/Services-Ecom-Header-D.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -355,7 +355,7 @@ hr{
 @media only screen and (max-width: 1024px)  {
     .hero{
         height: 640px;
-        background-image: url("epicerie-en-ligne/services-en-ligne/QC/Services-Ecom-Header-M.jpg");
+        background-image: url("services-en-ligne/Services-Ecom-Header-M.jpg");
     }
     .advantages-detail--card{
     width: 100%;
